@@ -11,11 +11,11 @@
 ###
 
 <p align="left">
-- I'm a **Fullstack Developer** based in *Campinas, SP — Brazil* <br>
-- I hold a **Bachelor’s degree in Software Engineering** from *PUC Campinas* <br>
-- Currently working at **Cogecom**, crafting digital products with **React** and **React Native** <br>
-- Passionate about **building meaningful, well-architected, and beautifully designed software** that solves real problems <br>
-- Always exploring new technologies and aiming to write **clean, efficient, and maintainable code**
+- I'm a <b>Fullstack Developer</b> based in <i>Campinas, SP — Brazil</i> <br>
+- I hold a <b>Bachelor’s degree in Software Engineering</b> from <i>PUC Campinas</i> <br>
+- Currently working at <b>Cogecom</b>, crafting digital products with <b>React</b> and <b>React Native</b> <br>
+- Passionate about <b>building meaningful, well-architected, and beautifully designed software</b> that solves real problems <br>
+- Always exploring new technologies and aiming to write <b>clean, efficient, and maintainable code</b>
 </p>
 
 ###
